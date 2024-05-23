@@ -1,0 +1,39 @@
+*{
+
+}
+.p1{
+    word-spacing: 10px;
+    font-size: 25px;
+    padding-left: 800px;
+}
+.contenedor {
+    
+    position: relative;
+    text-align: 1px;
+}
+.cv{
+    margin-bottom: -100px;
+    flex-direction:row;
+    direction:rtl;
+}
+.cv img{
+    
+    width: 150px;
+    height: 150px;
+}
+.m{
+    align:
+    margin-bottom: -100px;
+    flex-direction: row;
+    direction:rtl;
+}
+.m img{
+    width: 150px;
+}
+.c{
+    
+    flex-direction: row;
+    direction:rtl;
+   
+}
+ 
