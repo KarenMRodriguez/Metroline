@@ -4,36 +4,74 @@
 .p1{
     word-spacing: 10px;
     font-size: 25px;
-    padding-left: 800px;
+    padding-left: 700px;
 }
 .contenedor {
-    
+    border: solid black;
+    width: 1200px;
+    height: 910px;
     position: relative;
     text-align: 1px;
 }
 .cv{
-    margin-bottom: -100px;
-    flex-direction:row;
-    direction:rtl;
+    
+    margin-top: -1px;
+    margin-left: 950px;
+  
 }
 .cv img{
     
     width: 150px;
-    height: 150px;
+    height: 130px;
 }
 .m{
-    align:
-    margin-bottom: -100px;
-    flex-direction: row;
-    direction:rtl;
+    margin-top: -130px;
+    margin-left: 950px;
 }
 .m img{
+    
     width: 150px;
 }
 .c{
-    
-    flex-direction: row;
-    direction:rtl;
-   
+  
+    margin-top: -20px;
+    margin-left: 970px;
 }
- 
+
+.barraNegra{
+    margin-top: -815px;
+    margin-left: 1117px;
+    width: 200px;
+    margin-bottom: 90px;
+    height: 200px;
+
+}
+.barraNegra img{
+    width: 89px;
+    height: 912px;
+}
+.icon{
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: -260px;
+}
+
+
+.iconV{
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: 600px;
+}
+.cantidad{
+    position: absolute;
+    margin-left: 1125px;
+    margin-top: -170px;
+}
+.cantidad img{
+    width: 70px;
+}
+.menu{
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: -50px;
+}
